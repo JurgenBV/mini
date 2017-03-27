@@ -88,3 +88,6 @@ body {
 .footer a {
     color: #454545;
 }
+form {
+	display: flex-start;
+}
